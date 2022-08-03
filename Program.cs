@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        string characterName = "Tom";
+        string characterName = "Henry";
         int characterAge ;
         characterAge = 20;
         Console.WriteLine("Hello my name is "+characterName);
